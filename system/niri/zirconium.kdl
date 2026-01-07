@@ -21,6 +21,7 @@ O%%%%%%%%O                   O%%%%%%%O
   O%%%O                         O%%%O
 */
 include "includes/binds.kdl"
+include "includes/dms-base.kdl"
 include "includes/input.kdl"
 include "includes/layout.kdl"
 include "includes/misc.kdl"
