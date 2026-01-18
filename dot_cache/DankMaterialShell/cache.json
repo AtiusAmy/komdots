@@ -1,9 +1,9 @@
 {
-  "wallpaperLastPath": "/usr/share/zirconium/skel/Pictures/Wallpapers",
+  "wallpaperLastPath": "/usr/share/komnenos/wallpapers",
   "profileLastPath": "",
   "fileBrowserSettings": {
     "wallpaper": {
-      "lastPath": "/usr/share/zirconium/skel/Pictures/Wallpapers",
+      "lastPath": "/usr/share/komnenos/wallpapers",
       "viewMode": "grid",
       "sortBy": "name",
       "sortAscending": true,
